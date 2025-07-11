@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Satendra Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Next.js**
-
 - 👨‍💻 All of my projects are available at [https://portfolio-hoj9.onrender.com/](https://portfolio-hoj9.onrender.com/)
 
-- 💬 Ask me about **react, javascript**
+- 💬 Ask me about **React, React Native, Javascript**
 
 - 📫 How to reach me **satyendrakumar.contact@gmail.com**
 
-- ⚡ Fun fact **I am also a Singer**
+- ⚡ Fun fact **I can also sing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
