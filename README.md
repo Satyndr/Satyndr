@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satendra Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-hoj9.onrender.com/](https://portfolio-hoj9.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://satendra-zeta.vercel.app/](https://satendra-zeta.vercel.app/)
 
 - 💬 Ask me about **React, React Native, Javascript**
 
